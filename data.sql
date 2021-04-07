@@ -1,0 +1,20 @@
+  
+insert into weathers(id,date,lat,lon,city,state)values(0,'2021-01-27',2.0223,2.3349,'Dallas','Texas');
+insert into weathers(id,date,lat,lon,city,state)values(1,'2021-01-28',2.0223,2.3349,'Dallas','Texas');
+insert into weathers(id,date,lat,lon,city,state)values(2,'2021-01-29',2.0223,2.3349,'Dallas','Texas');
+insert into weathers(id,date,lat,lon,city,state)values(3,'2021-01-30',2.0223,2.3349,'Dallas','Texas');
+insert into weathers(id,date,lat,lon,city,state)values(4,'2021-01-31',2.0223,2.3349,'Dallas','Texas');
+insert into weather_temperature(weather_id,temperature)values(0,1.0);
+insert into weather_temperature(weather_id,temperature)values(0,31.0);
+insert into weather_temperature(weather_id,temperature)values(0,12.0);
+insert into weather_temperature(weather_id,temperature)values(0,14.0);
+insert into weather_temperature(weather_id,temperature)values(0,15.0);
+insert into weather_temperature(weather_id,temperature)values(0,12.0);
+insert into weather_temperature(weather_id,temperature)values(0,15.0);
+insert into weather_temperature(weather_id,temperature)values(1,1.0);
+insert into weather_temperature(weather_id,temperature)values(1,31.0);
+insert into weather_temperature(weather_id,temperature)values(1,12.0);
+insert into weather_temperature(weather_id,temperature)values(1,14.0);
+insert into weather_temperature(weather_id,temperature)values(1,15.0);
+insert into weather_temperature(weather_id,temperature)values(1,12.0);
+insert into weather_temperature(weather_id,temperature)values(1,15.0);
